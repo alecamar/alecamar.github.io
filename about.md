@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Saiba mais sobre a gente
 
-### More Information
+www.needs.ufscar.br
 
-A place to include any other types of information that you'd like to include about yourself.
+https://www.lagoadosino.ufscar.br/
 
-### Contact me
+### Visite a gente na Lagoa!
 
-[email@domain.com](mailto:email@domain.com)
+Rodovia Lauri Simões de Barros, km 12 - SP-189
+Bairro Aracaçú - Buri - São Paulo - Brasil
