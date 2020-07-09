@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About
+title: Saiba mais sobre a gente
 permalink: /about/
 ---
-
-### Saiba mais sobre a gente
 
 www.needs.ufscar.br
 
 www.lagoadosino.ufscar.br
 
-### Visite a gente na Lagoa!
+### Visite a Lagoa!
 
 Rodovia Lauri Simões de Barros - SP-189, km 12
 
