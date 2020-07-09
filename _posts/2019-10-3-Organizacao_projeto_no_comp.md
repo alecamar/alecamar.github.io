@@ -1,6 +1,7 @@
-## Organização das informações do seu projeto no seu computador (3/Out/2019)
-
- 
+---
+layout: post
+title: Organização das informações do seu projeto no seu computador
+---
 
 Tenho visto muitas pessoas (particularmente meus alunos!) ficarem perdidos nos seus respectivos projetos por falta de organização das informações. Em geral as pessoas ficam perdidas nos montes de arquivos e versões deles, não conseguem achar os arquivos que precisam, ou as versões mais recentes (em um post futuro irei falar também sobre o gitHub), não sabem onde está o mapa ou a tabela que geraram, ou editaram os dados originais e agora não sabem como voltar atrás… coisas desse tipo. Isso lhe parece familiar? Isso está acontecendo com você? Em caso afirmativo, continue lendo que este post pode ajudá-lo!
 

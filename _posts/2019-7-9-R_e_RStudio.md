@@ -1,4 +1,7 @@
-## R e RStudio (09/Jun/2019)
+---
+layout: post
+title: R e RStudio
+---
 
 Talvez você já tenha ouvido falar no R, quem sabe até já fez uma disciplina que utilizou o R. Mas você ainda sente que só sabe copiar o código que lhe deram e acha que se tiver que fazer uma análise sozinhx não vai conseguir. Pois é, esse é um sentimento comum de muitas pessoas, afinal, todo mundo fala que a curva de aprendizado do R é complicada.
 
